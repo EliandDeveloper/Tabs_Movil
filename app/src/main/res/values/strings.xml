@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Tabs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_main">Inicio</string>
+    <string name="tab_register">Registrar</string>">
+
+    <string name="tab_contacts">Contacts</string>">
+    <string name="tab_music">Canciones</string>
+
+    <!-- Strings para el menu-->
+
+    <string name="menu_config">Configuración</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_guide">Guia</string>
+    <string name="tabs_info">Menu de navegacion</string>
+
+    <!-- Strings para el el inicio-->
+    <string name="inicio_description">¡Bienvenido a nuestra aplicación! Aquí encontrarás información
+        sobre nuestras características y cómo utilizarlas. Disfruta tu experiencia.</string>
+
+    <!-- Strings para el registro-->
+
+    <string name="register_name">Nombre</string>
+    <string name="register_email">Email</string>
+    <string name="register_password">Contraseña</string>
+    <string name="register_button">Registrar</string>
+
+    <!-- Strings para el contacto-->
+
+    <string name="contacts_name">Elian Daniel De Los Santos</string>
+    <string name="contacts_matricula">2022-2035</string>
+    <string name="contacts_email">eliand.delossantos@gmail.com</string>
+    <string name="contacts_phone">+1849-207-0606</string>
+    <string name="contacts_photo_desc">Foto del desarrollador</string>
+
+</resources>
